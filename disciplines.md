@@ -46,3 +46,22 @@ it should be noted that these categories are fairly fuzzy, and are not strict.
  - computer graphics
 
 #### asdf hacking
+ - 
+
+#### asdf hacking
+ - 
+
+#### asdf hacking
+ - 
+
+#### asdf hacking
+ - 
+
+#### asdf hacking
+ - 
+
+#### ?
+ - yoga
+ - dance
+ - sports
+ - martial arts

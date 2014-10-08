@@ -1,18 +1,19 @@
-## fundamental rules for a hacker order (superstructure)
+## fundamental rules for a hacker order ( superstructure, overlay government )
 
  - all hackers are to be treated with respect.
  - code, information, and ideas cannot be owned.
- - code, information, and ideas cannot be controlled.
+ - code, information, and ideas should not be controlled.
  - good code, information, and ideas must be respected.
  - bad code, information, and ideas may be criticized, deconstructed, ridiculed, etc.
+	 - ( ridicule should be discouraged )
 	 - bad hackers must not be ridiculed.
 		 - ( ridicule of bad hackers would violate rule [ref]. )
-	 - the good qualities of bad code must be respected
+	 - the good qualities of bad code, information, and ideas must be respected
  - a hacker must not be forced to give up code, information, or ideas against their will.
 	 - ( this rule, in present society, is not absolutely practical. many hackers presently must contribute code, information, and ideas to organizations through a legal process in which they lose attribution and ownership. they often submit themselves to this process in order to gain funds for subsistance. this process breaks rules:\[ ref, ref, ref\] and the practice should be abolished. in order to abolish the practice, all hackers must be able to subsist without contributing. ideally, all hackers should be able to subsist happily. )
  - contribution of code, information, or ideas to the order should be encouraged.
  - contribution of code, information, or ideas to the order can be rewarded.
- - contribution of code, information, or ideas to the order must be attributed to the contribution's author, or nobody at all.
+ - contribution of code, information, or ideas to the order must be attributed to the contribution's author(s), or nobody at all.
 	 - hackers may contribute anonymously ( with the understanding that they will not and can not be credited for the contribution, and that the contribution will not be trusted until audited by members of the order ).
 		 - ( this may be done with temporary identities. the anonymous hacker wishing to preserve their anonimity must be aware of how speech and other behaviors can reveal identities. for this reason, segregating one's identities may be useful. )
  - all code, information, and ideas contributed to the order must be shared with all members of the order without restriction.
@@ -38,14 +39,18 @@
  - 
  - 
 
+## recommendations for handling conflicts between members
+ - establish a mediation process
+ - 
+
 ## recommendations for dealing with unstable elements
  - 
 
 ## fundamental conditions for acceptance into the order
+ - demonstrated compatibility with the spirit of the order
  - desire to learn
  - desire to contribute
  - desire to teach
- - demonstrated compatibility with the spirit of the order
  - ( 
 
 ## practical conditions for acceptance into the order
