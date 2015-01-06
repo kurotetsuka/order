@@ -1,3 +1,4 @@
-## theotical framework for the establishment of a hacker order
+## Theoretical Framework for the Establishment of a Hacker Order
 
-by: kurotetsuka
+Author: Kurotetsuka
+License: cc-by ( [details](legal/cc-by.md) )

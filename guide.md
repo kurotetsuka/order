@@ -1,0 +1,21 @@
+## guide for establishment of a hacker order
+ - select and implement a ranking system.
+	 - take care not to permit the usage of the ranking system to violate rule 0.
+	 - let it be understood that those with greater rank are respected more highly, but do not permit disrespect of those of lower rank.
+	 - always permit full free speech of all members, regardless of rank. 
+ - select a promotion model for your ranking system.
+ - select a monetary system ( currency ).
+	 - encourage members to trade possessions and services in exchange for the currency.
+	 - ideally, the monetary system should be compatible with external monetary systems.
+	 - ( ideally, no monetary system would be required, but past history has shown that monetary systems are neccessary for the representation of debts of all sorts ( physical, spiritual, conceptual, etc. ) ).
+ - select a negotiation mechanism through which hackers may be persuaded to contribute and be rewarded post-contribution.
+	 - it may be useful for this mechanism to accomodate teams, though this may cause unfairness during distribution of rewards within the team.
+	 - care should be taken to reward contributions ( negotiated or otherwise ) fairly.
+ - select a mechanism through which teams or individuals may accept funding for their future work.
+ - select a mechanism through which teams or individuals may accept rewards for their past work.
+ - implement a web of trust system.
+ - establish secure communications.
+ - establish sets of challenges designed to determine the knowledge, ability, and philosophical affinity of hackers.
+	 - these challeges may also be used to drive teaching
+ - establish databases of learning material.
+	 - constantly refine these databases.
